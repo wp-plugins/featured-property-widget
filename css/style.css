@@ -1,0 +1,27 @@
+/* --------------------
+		Feat Prop Widget CSS 
+		Version 1.0
+   --------------------*/
+
+.fprop-image img {
+	margin: 0 auto;
+}
+
+.fprop-address {
+	padding: 15px 0 15px 0;
+	text-align: center;
+	font-weight: 600;
+}
+
+.fprop-attrb-title {
+	font-weight: bold;
+	padding-top: 5px;
+}
+
+.fprop-attrb {
+	padding-top: 5px;
+}
+
+.fprop-desc {
+	padding-top: 5px;
+}
