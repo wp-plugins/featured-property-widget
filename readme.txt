@@ -2,7 +2,7 @@
 Contributors: cfusionmm
 Tags: property, featured property, realty, realtor, real estate, widget
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -24,9 +24,16 @@ Install this plugin just like any other.
 == Screenshots ==
 
 1. The front end of the widget.
-2. The settings currently available as of verison 1.0.0.
+2. The widget settings currently available as of verison 1.1.0.
+3. Labels can now be configured as of version 1.1.0.
 
 == Changelog ==
+
+= 1.1.0 =
+
+* Testing to ensure compatibility with WordPress Core 4.2.
+* New Feature:  Ability to control/customize widget field labels (Settings -> Featured Property Widget).
+* New Feature:  Added ability to upload property image directly in widget settings.
 
 = 1.0.0 =
 
