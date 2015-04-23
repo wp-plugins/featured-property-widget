@@ -6,13 +6,13 @@
 
     Plugin URI: http://www.cfusionmultimedia.com/projects/featured-property-widget/
 
-    Description: Displays a simple formated Featured Property as a widget.
+    Description: Displays a simple formatted Featured Property as a widget.  Perfect way to feature properties that are for sale or rent.
 
     Author: Colin Vitek
 
     Author URI: http://www.cfusionmultimedia.com
 
-    Version: 1.0.0
+    Version: 1.1.0
 
 	License: GPLv2
 
