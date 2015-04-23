@@ -7,7 +7,7 @@ Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Displays a simple formated Featured Property as a widget.
+Displays a simple formatted Featured Property as a widget.  Perfect way to feature properties that are for sale or rent.
 
 == Description ==
 
